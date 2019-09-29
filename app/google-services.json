@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "869584015832",
+    "firebase_url": "https://acclerometer-31b11.firebaseio.com",
+    "project_id": "acclerometer-31b11",
+    "storage_bucket": "acclerometer-31b11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869584015832:android:86b177fb31544c948e22ad",
+        "android_client_info": {
+          "package_name": "com.example.acclerometer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869584015832-cors4pir3hnb5mm09u03st31p7adtf0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acclerometer",
+            "certificate_hash": "fe041c6a1a44bd1d3f276ee2dcb69361461e18b9"
+          }
+        },
+        {
+          "client_id": "869584015832-er5ag2pl9a1k785sl38dvjjmlg1fiiba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3_L4MhnqyiC1zom7MoovMt9SF93lkx4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869584015832-er5ag2pl9a1k785sl38dvjjmlg1fiiba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
